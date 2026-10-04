@@ -2,7 +2,8 @@
 
 **Course:** AI Project Design and Development (AI-316) | **Lab 02**
 **Air University Islamabad, Department of Creative Technologies**
-**Student:** NOOR UL EMAN (231197)
+**Student:**
+NOOR UL EMAN (231197)
 
 System requirements and software architecture for an AI-powered surveillance and attendance system.
 
